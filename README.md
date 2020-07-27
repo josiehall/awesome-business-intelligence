@@ -127,6 +127,7 @@ ToC split by SaaS and OSS (Open Source Software):
   - **SaaS**
     - [Astronomer](https://www.astronomer.io/)
     - [dbt Cloud](https://cloud.getdbt.com/) by Fishtown Analytics
+    - [Dataform](https://dataform.co)
 
   - **OSS**
     - [Airflow](https://airflow.incubator.apache.org/) by Apache
